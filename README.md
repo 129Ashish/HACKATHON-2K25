@@ -89,10 +89,10 @@ Campus Connect/
 ## 🖼️ Screenshots
 Below are some example placeholders for adding screenshots and previews of your website:
 
-| Home Page | Events Page |
-|------------|-------------|
+| Home Page | 
+|------------|
 | ![Home Page](images/image.png) |<br>
-![Events Page](images/Screenshot_2.png) |
+
 
 > 💡 *Replace the image paths above with actual screenshots or add a link to your hosted demo.*
 
