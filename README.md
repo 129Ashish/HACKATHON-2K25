@@ -6,7 +6,7 @@ It provides students with a centralized platform to discover, explore, and parti
 ![Home Page](images/image.png) 
 
 ## 🌐 Live Preview
-> 🔗 **Preview Link:** [(#hackathon-2-k25.vercel.app)]
+> 🔗 **Preview Link:** > https://hackathon-2-k25.vercel.app
 
 ---
 
