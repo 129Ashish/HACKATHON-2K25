@@ -1,4 +1,4 @@
-# Campus Connect 🎓:
+# Campus Connect 🎓
 
 Campus Connect is a **campus event aggregator web application** built using **HTML, CSS, and JavaScript**.  
 It provides students with a centralized platform to discover, explore, and participate in campus events — including cultural fests, technical workshops, seminars, and more.
